@@ -1,0 +1,15 @@
+C:\Users\hddel\Desktop\Lista4\Ex7 - Criando uma exceção\bin\Debug\net6.0\Ex7 - Criando uma exceção.exe
+C:\Users\hddel\Desktop\Lista4\Ex7 - Criando uma exceção\bin\Debug\net6.0\Ex7 - Criando uma exceção.deps.json
+C:\Users\hddel\Desktop\Lista4\Ex7 - Criando uma exceção\bin\Debug\net6.0\Ex7 - Criando uma exceção.runtimeconfig.json
+C:\Users\hddel\Desktop\Lista4\Ex7 - Criando uma exceção\bin\Debug\net6.0\Ex7 - Criando uma exceção.dll
+C:\Users\hddel\Desktop\Lista4\Ex7 - Criando uma exceção\bin\Debug\net6.0\Ex7 - Criando uma exceção.pdb
+C:\Users\hddel\Desktop\Lista4\Ex7 - Criando uma exceção\obj\Debug\net6.0\Ex7 - Criando uma exceção.csproj.AssemblyReference.cache
+C:\Users\hddel\Desktop\Lista4\Ex7 - Criando uma exceção\obj\Debug\net6.0\Ex7 - Criando uma exceção.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hddel\Desktop\Lista4\Ex7 - Criando uma exceção\obj\Debug\net6.0\Ex7 - Criando uma exceção.AssemblyInfoInputs.cache
+C:\Users\hddel\Desktop\Lista4\Ex7 - Criando uma exceção\obj\Debug\net6.0\Ex7 - Criando uma exceção.AssemblyInfo.cs
+C:\Users\hddel\Desktop\Lista4\Ex7 - Criando uma exceção\obj\Debug\net6.0\Ex7 - Criando uma exceção.csproj.CoreCompileInputs.cache
+C:\Users\hddel\Desktop\Lista4\Ex7 - Criando uma exceção\obj\Debug\net6.0\Ex7 - Criando uma exceção.dll
+C:\Users\hddel\Desktop\Lista4\Ex7 - Criando uma exceção\obj\Debug\net6.0\refint\Ex7 - Criando uma exceção.dll
+C:\Users\hddel\Desktop\Lista4\Ex7 - Criando uma exceção\obj\Debug\net6.0\Ex7 - Criando uma exceção.pdb
+C:\Users\hddel\Desktop\Lista4\Ex7 - Criando uma exceção\obj\Debug\net6.0\Ex7 - Criando uma exceção.genruntimeconfig.cache
+C:\Users\hddel\Desktop\Lista4\Ex7 - Criando uma exceção\obj\Debug\net6.0\ref\Ex7 - Criando uma exceção.dll

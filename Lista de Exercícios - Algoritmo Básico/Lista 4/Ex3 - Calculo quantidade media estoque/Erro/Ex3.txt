@@ -1,0 +1,10 @@
+LISTA 4
+
+Ex 3
+
+Erro:
+Ao tentar atribuir uma variavel string a uma entrada do usuario pelo teclado (input) no Console.ReadLine
+
+Conversão de literal nula ou possível valor nulo em tipo não anulável. [Ex3 - Calculo quantidade media estoque]
+
+Melhorias: loop (não é possível por conta da string)

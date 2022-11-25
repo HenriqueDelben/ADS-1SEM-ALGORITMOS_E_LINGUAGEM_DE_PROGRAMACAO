@@ -1,0 +1,11 @@
+C:\Users\henrique.delben_uscs\source\repos\N1 - Exercício 7\N1 - Exercício 7\bin\Debug\netcoreapp2.1\N1 - Exercício 7.deps.json
+C:\Users\henrique.delben_uscs\source\repos\N1 - Exercício 7\N1 - Exercício 7\bin\Debug\netcoreapp2.1\N1 - Exercício 7.runtimeconfig.json
+C:\Users\henrique.delben_uscs\source\repos\N1 - Exercício 7\N1 - Exercício 7\bin\Debug\netcoreapp2.1\N1 - Exercício 7.runtimeconfig.dev.json
+C:\Users\henrique.delben_uscs\source\repos\N1 - Exercício 7\N1 - Exercício 7\bin\Debug\netcoreapp2.1\N1 - Exercício 7.dll
+C:\Users\henrique.delben_uscs\source\repos\N1 - Exercício 7\N1 - Exercício 7\bin\Debug\netcoreapp2.1\N1 - Exercício 7.pdb
+C:\Users\henrique.delben_uscs\source\repos\N1 - Exercício 7\N1 - Exercício 7\obj\Debug\netcoreapp2.1\N1 - Exercício 7.csprojAssemblyReference.cache
+C:\Users\henrique.delben_uscs\source\repos\N1 - Exercício 7\N1 - Exercício 7\obj\Debug\netcoreapp2.1\N1 - Exercício 7.csproj.CoreCompileInputs.cache
+C:\Users\henrique.delben_uscs\source\repos\N1 - Exercício 7\N1 - Exercício 7\obj\Debug\netcoreapp2.1\N1 - Exercício 7.AssemblyInfoInputs.cache
+C:\Users\henrique.delben_uscs\source\repos\N1 - Exercício 7\N1 - Exercício 7\obj\Debug\netcoreapp2.1\N1 - Exercício 7.AssemblyInfo.cs
+C:\Users\henrique.delben_uscs\source\repos\N1 - Exercício 7\N1 - Exercício 7\obj\Debug\netcoreapp2.1\N1 - Exercício 7.dll
+C:\Users\henrique.delben_uscs\source\repos\N1 - Exercício 7\N1 - Exercício 7\obj\Debug\netcoreapp2.1\N1 - Exercício 7.pdb

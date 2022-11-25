@@ -1,0 +1,15 @@
+C:\Users\hddel\Desktop\Lista4\Ex9 - Ex8 acrescentando a mensagem valor invalido\bin\Debug\net6.0\Ex9 - Ex8 acrescentando a mensagem valor invalido.exe
+C:\Users\hddel\Desktop\Lista4\Ex9 - Ex8 acrescentando a mensagem valor invalido\bin\Debug\net6.0\Ex9 - Ex8 acrescentando a mensagem valor invalido.deps.json
+C:\Users\hddel\Desktop\Lista4\Ex9 - Ex8 acrescentando a mensagem valor invalido\bin\Debug\net6.0\Ex9 - Ex8 acrescentando a mensagem valor invalido.runtimeconfig.json
+C:\Users\hddel\Desktop\Lista4\Ex9 - Ex8 acrescentando a mensagem valor invalido\bin\Debug\net6.0\Ex9 - Ex8 acrescentando a mensagem valor invalido.dll
+C:\Users\hddel\Desktop\Lista4\Ex9 - Ex8 acrescentando a mensagem valor invalido\bin\Debug\net6.0\Ex9 - Ex8 acrescentando a mensagem valor invalido.pdb
+C:\Users\hddel\Desktop\Lista4\Ex9 - Ex8 acrescentando a mensagem valor invalido\obj\Debug\net6.0\Ex9 - Ex8 acrescentando a mensagem valor invalido.csproj.AssemblyReference.cache
+C:\Users\hddel\Desktop\Lista4\Ex9 - Ex8 acrescentando a mensagem valor invalido\obj\Debug\net6.0\Ex9 - Ex8 acrescentando a mensagem valor invalido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hddel\Desktop\Lista4\Ex9 - Ex8 acrescentando a mensagem valor invalido\obj\Debug\net6.0\Ex9 - Ex8 acrescentando a mensagem valor invalido.AssemblyInfoInputs.cache
+C:\Users\hddel\Desktop\Lista4\Ex9 - Ex8 acrescentando a mensagem valor invalido\obj\Debug\net6.0\Ex9 - Ex8 acrescentando a mensagem valor invalido.AssemblyInfo.cs
+C:\Users\hddel\Desktop\Lista4\Ex9 - Ex8 acrescentando a mensagem valor invalido\obj\Debug\net6.0\Ex9 - Ex8 acrescentando a mensagem valor invalido.csproj.CoreCompileInputs.cache
+C:\Users\hddel\Desktop\Lista4\Ex9 - Ex8 acrescentando a mensagem valor invalido\obj\Debug\net6.0\Ex9 - Ex8 acrescentando a mensagem valor invalido.dll
+C:\Users\hddel\Desktop\Lista4\Ex9 - Ex8 acrescentando a mensagem valor invalido\obj\Debug\net6.0\refint\Ex9 - Ex8 acrescentando a mensagem valor invalido.dll
+C:\Users\hddel\Desktop\Lista4\Ex9 - Ex8 acrescentando a mensagem valor invalido\obj\Debug\net6.0\Ex9 - Ex8 acrescentando a mensagem valor invalido.pdb
+C:\Users\hddel\Desktop\Lista4\Ex9 - Ex8 acrescentando a mensagem valor invalido\obj\Debug\net6.0\Ex9 - Ex8 acrescentando a mensagem valor invalido.genruntimeconfig.cache
+C:\Users\hddel\Desktop\Lista4\Ex9 - Ex8 acrescentando a mensagem valor invalido\obj\Debug\net6.0\ref\Ex9 - Ex8 acrescentando a mensagem valor invalido.dll

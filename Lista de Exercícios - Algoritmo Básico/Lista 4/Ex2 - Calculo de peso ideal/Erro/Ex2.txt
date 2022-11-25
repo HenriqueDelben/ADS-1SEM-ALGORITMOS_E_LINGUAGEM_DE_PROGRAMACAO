@@ -1,0 +1,12 @@
+LISTA 4
+
+EX 2
+
+Erro:
+- Enquanto capturava uma input de uma variavel string "nome" através do Console.ReadLine 
+
+"Conversão de literal nula ou possível valor nulo em tipo não anulável. [Ex2 - Calculo de peso ideal]"
+
+Melhorias: 
+- Concertar erro e loop sem funcionamento
+------------------------------------------------------------------------------------------------------

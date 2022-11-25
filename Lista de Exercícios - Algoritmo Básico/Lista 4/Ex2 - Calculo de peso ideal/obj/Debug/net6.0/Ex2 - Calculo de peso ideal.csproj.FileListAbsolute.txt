@@ -1,0 +1,15 @@
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex2 - Calculo de peso ideal\bin\Debug\net6.0\Ex2 - Calculo de peso ideal.exe
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex2 - Calculo de peso ideal\bin\Debug\net6.0\Ex2 - Calculo de peso ideal.deps.json
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex2 - Calculo de peso ideal\bin\Debug\net6.0\Ex2 - Calculo de peso ideal.runtimeconfig.json
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex2 - Calculo de peso ideal\bin\Debug\net6.0\Ex2 - Calculo de peso ideal.dll
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex2 - Calculo de peso ideal\bin\Debug\net6.0\Ex2 - Calculo de peso ideal.pdb
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex2 - Calculo de peso ideal\obj\Debug\net6.0\Ex2 - Calculo de peso ideal.csproj.AssemblyReference.cache
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex2 - Calculo de peso ideal\obj\Debug\net6.0\Ex2 - Calculo de peso ideal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex2 - Calculo de peso ideal\obj\Debug\net6.0\Ex2 - Calculo de peso ideal.AssemblyInfoInputs.cache
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex2 - Calculo de peso ideal\obj\Debug\net6.0\Ex2 - Calculo de peso ideal.AssemblyInfo.cs
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex2 - Calculo de peso ideal\obj\Debug\net6.0\Ex2 - Calculo de peso ideal.csproj.CoreCompileInputs.cache
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex2 - Calculo de peso ideal\obj\Debug\net6.0\Ex2 - Calculo de peso ideal.dll
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex2 - Calculo de peso ideal\obj\Debug\net6.0\refint\Ex2 - Calculo de peso ideal.dll
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex2 - Calculo de peso ideal\obj\Debug\net6.0\Ex2 - Calculo de peso ideal.pdb
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex2 - Calculo de peso ideal\obj\Debug\net6.0\Ex2 - Calculo de peso ideal.genruntimeconfig.cache
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex2 - Calculo de peso ideal\obj\Debug\net6.0\ref\Ex2 - Calculo de peso ideal.dll

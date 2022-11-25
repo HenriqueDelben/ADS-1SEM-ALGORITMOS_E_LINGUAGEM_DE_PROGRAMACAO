@@ -1,0 +1,15 @@
+C:\Users\hddel\Desktop\Lista4\Ex8 - Ex7 utilizando o while\bin\Debug\net6.0\Ex8 - Ex7 utilizando o while.exe
+C:\Users\hddel\Desktop\Lista4\Ex8 - Ex7 utilizando o while\bin\Debug\net6.0\Ex8 - Ex7 utilizando o while.deps.json
+C:\Users\hddel\Desktop\Lista4\Ex8 - Ex7 utilizando o while\bin\Debug\net6.0\Ex8 - Ex7 utilizando o while.runtimeconfig.json
+C:\Users\hddel\Desktop\Lista4\Ex8 - Ex7 utilizando o while\bin\Debug\net6.0\Ex8 - Ex7 utilizando o while.dll
+C:\Users\hddel\Desktop\Lista4\Ex8 - Ex7 utilizando o while\bin\Debug\net6.0\Ex8 - Ex7 utilizando o while.pdb
+C:\Users\hddel\Desktop\Lista4\Ex8 - Ex7 utilizando o while\obj\Debug\net6.0\Ex8 - Ex7 utilizando o while.csproj.AssemblyReference.cache
+C:\Users\hddel\Desktop\Lista4\Ex8 - Ex7 utilizando o while\obj\Debug\net6.0\Ex8 - Ex7 utilizando o while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hddel\Desktop\Lista4\Ex8 - Ex7 utilizando o while\obj\Debug\net6.0\Ex8 - Ex7 utilizando o while.AssemblyInfoInputs.cache
+C:\Users\hddel\Desktop\Lista4\Ex8 - Ex7 utilizando o while\obj\Debug\net6.0\Ex8 - Ex7 utilizando o while.AssemblyInfo.cs
+C:\Users\hddel\Desktop\Lista4\Ex8 - Ex7 utilizando o while\obj\Debug\net6.0\Ex8 - Ex7 utilizando o while.csproj.CoreCompileInputs.cache
+C:\Users\hddel\Desktop\Lista4\Ex8 - Ex7 utilizando o while\obj\Debug\net6.0\Ex8 - Ex7 utilizando o while.dll
+C:\Users\hddel\Desktop\Lista4\Ex8 - Ex7 utilizando o while\obj\Debug\net6.0\refint\Ex8 - Ex7 utilizando o while.dll
+C:\Users\hddel\Desktop\Lista4\Ex8 - Ex7 utilizando o while\obj\Debug\net6.0\Ex8 - Ex7 utilizando o while.pdb
+C:\Users\hddel\Desktop\Lista4\Ex8 - Ex7 utilizando o while\obj\Debug\net6.0\Ex8 - Ex7 utilizando o while.genruntimeconfig.cache
+C:\Users\hddel\Desktop\Lista4\Ex8 - Ex7 utilizando o while\obj\Debug\net6.0\ref\Ex8 - Ex7 utilizando o while.dll

@@ -1,0 +1,15 @@
+C:\Users\hddel\Desktop\Lista4\Ex6 - Soma das idades de 2 mulheres e 2 homens\bin\Debug\net6.0\Ex6 - Soma das idades de 2 mulheres e 2 homens.exe
+C:\Users\hddel\Desktop\Lista4\Ex6 - Soma das idades de 2 mulheres e 2 homens\bin\Debug\net6.0\Ex6 - Soma das idades de 2 mulheres e 2 homens.deps.json
+C:\Users\hddel\Desktop\Lista4\Ex6 - Soma das idades de 2 mulheres e 2 homens\bin\Debug\net6.0\Ex6 - Soma das idades de 2 mulheres e 2 homens.runtimeconfig.json
+C:\Users\hddel\Desktop\Lista4\Ex6 - Soma das idades de 2 mulheres e 2 homens\bin\Debug\net6.0\Ex6 - Soma das idades de 2 mulheres e 2 homens.dll
+C:\Users\hddel\Desktop\Lista4\Ex6 - Soma das idades de 2 mulheres e 2 homens\bin\Debug\net6.0\Ex6 - Soma das idades de 2 mulheres e 2 homens.pdb
+C:\Users\hddel\Desktop\Lista4\Ex6 - Soma das idades de 2 mulheres e 2 homens\obj\Debug\net6.0\Ex6 - Soma das idades de 2 mulheres e 2 homens.csproj.AssemblyReference.cache
+C:\Users\hddel\Desktop\Lista4\Ex6 - Soma das idades de 2 mulheres e 2 homens\obj\Debug\net6.0\Ex6 - Soma das idades de 2 mulheres e 2 homens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hddel\Desktop\Lista4\Ex6 - Soma das idades de 2 mulheres e 2 homens\obj\Debug\net6.0\Ex6 - Soma das idades de 2 mulheres e 2 homens.AssemblyInfoInputs.cache
+C:\Users\hddel\Desktop\Lista4\Ex6 - Soma das idades de 2 mulheres e 2 homens\obj\Debug\net6.0\Ex6 - Soma das idades de 2 mulheres e 2 homens.AssemblyInfo.cs
+C:\Users\hddel\Desktop\Lista4\Ex6 - Soma das idades de 2 mulheres e 2 homens\obj\Debug\net6.0\Ex6 - Soma das idades de 2 mulheres e 2 homens.csproj.CoreCompileInputs.cache
+C:\Users\hddel\Desktop\Lista4\Ex6 - Soma das idades de 2 mulheres e 2 homens\obj\Debug\net6.0\Ex6 - Soma das idades de 2 mulheres e 2 homens.dll
+C:\Users\hddel\Desktop\Lista4\Ex6 - Soma das idades de 2 mulheres e 2 homens\obj\Debug\net6.0\refint\Ex6 - Soma das idades de 2 mulheres e 2 homens.dll
+C:\Users\hddel\Desktop\Lista4\Ex6 - Soma das idades de 2 mulheres e 2 homens\obj\Debug\net6.0\Ex6 - Soma das idades de 2 mulheres e 2 homens.pdb
+C:\Users\hddel\Desktop\Lista4\Ex6 - Soma das idades de 2 mulheres e 2 homens\obj\Debug\net6.0\Ex6 - Soma das idades de 2 mulheres e 2 homens.genruntimeconfig.cache
+C:\Users\hddel\Desktop\Lista4\Ex6 - Soma das idades de 2 mulheres e 2 homens\obj\Debug\net6.0\ref\Ex6 - Soma das idades de 2 mulheres e 2 homens.dll

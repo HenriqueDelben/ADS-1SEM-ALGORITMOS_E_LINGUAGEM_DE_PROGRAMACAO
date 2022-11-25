@@ -1,0 +1,15 @@
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex3 - Calculo quantidade media estoque\obj\Debug\net6.0\Ex3 - Calculo quantidade media estoque.csproj.AssemblyReference.cache
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex3 - Calculo quantidade media estoque\obj\Debug\net6.0\Ex3 - Calculo quantidade media estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex3 - Calculo quantidade media estoque\obj\Debug\net6.0\Ex3 - Calculo quantidade media estoque.AssemblyInfoInputs.cache
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex3 - Calculo quantidade media estoque\obj\Debug\net6.0\Ex3 - Calculo quantidade media estoque.AssemblyInfo.cs
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex3 - Calculo quantidade media estoque\obj\Debug\net6.0\Ex3 - Calculo quantidade media estoque.csproj.CoreCompileInputs.cache
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex3 - Calculo quantidade media estoque\bin\Debug\net6.0\Ex3 - Calculo quantidade media estoque.exe
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex3 - Calculo quantidade media estoque\bin\Debug\net6.0\Ex3 - Calculo quantidade media estoque.deps.json
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex3 - Calculo quantidade media estoque\bin\Debug\net6.0\Ex3 - Calculo quantidade media estoque.runtimeconfig.json
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex3 - Calculo quantidade media estoque\bin\Debug\net6.0\Ex3 - Calculo quantidade media estoque.dll
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex3 - Calculo quantidade media estoque\bin\Debug\net6.0\Ex3 - Calculo quantidade media estoque.pdb
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex3 - Calculo quantidade media estoque\obj\Debug\net6.0\Ex3 - Calculo quantidade media estoque.dll
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex3 - Calculo quantidade media estoque\obj\Debug\net6.0\refint\Ex3 - Calculo quantidade media estoque.dll
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex3 - Calculo quantidade media estoque\obj\Debug\net6.0\Ex3 - Calculo quantidade media estoque.pdb
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex3 - Calculo quantidade media estoque\obj\Debug\net6.0\Ex3 - Calculo quantidade media estoque.genruntimeconfig.cache
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 4\Ex3 - Calculo quantidade media estoque\obj\Debug\net6.0\ref\Ex3 - Calculo quantidade media estoque.dll

@@ -1,0 +1,15 @@
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 1 Simulado\bin\Debug\net6.0\Exercicio 1 Simulado.exe
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 1 Simulado\bin\Debug\net6.0\Exercicio 1 Simulado.deps.json
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 1 Simulado\bin\Debug\net6.0\Exercicio 1 Simulado.runtimeconfig.json
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 1 Simulado\bin\Debug\net6.0\Exercicio 1 Simulado.dll
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 1 Simulado\bin\Debug\net6.0\Exercicio 1 Simulado.pdb
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 1 Simulado\obj\Debug\net6.0\Exercicio 1 Simulado.csproj.AssemblyReference.cache
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 1 Simulado\obj\Debug\net6.0\Exercicio 1 Simulado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 1 Simulado\obj\Debug\net6.0\Exercicio 1 Simulado.AssemblyInfoInputs.cache
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 1 Simulado\obj\Debug\net6.0\Exercicio 1 Simulado.AssemblyInfo.cs
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 1 Simulado\obj\Debug\net6.0\Exercicio 1 Simulado.csproj.CoreCompileInputs.cache
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 1 Simulado\obj\Debug\net6.0\Exercicio 1 Simulado.dll
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 1 Simulado\obj\Debug\net6.0\refint\Exercicio 1 Simulado.dll
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 1 Simulado\obj\Debug\net6.0\Exercicio 1 Simulado.pdb
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 1 Simulado\obj\Debug\net6.0\Exercicio 1 Simulado.genruntimeconfig.cache
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 1 Simulado\obj\Debug\net6.0\ref\Exercicio 1 Simulado.dll

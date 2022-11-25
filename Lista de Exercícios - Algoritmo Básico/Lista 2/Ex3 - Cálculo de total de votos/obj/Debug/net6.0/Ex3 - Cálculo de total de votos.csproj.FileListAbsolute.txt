@@ -1,0 +1,15 @@
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 2\Ex3 - Cálculo de total de votos\bin\Debug\net6.0\Ex3 - Cálculo de total de votos.exe
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 2\Ex3 - Cálculo de total de votos\bin\Debug\net6.0\Ex3 - Cálculo de total de votos.deps.json
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 2\Ex3 - Cálculo de total de votos\bin\Debug\net6.0\Ex3 - Cálculo de total de votos.runtimeconfig.json
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 2\Ex3 - Cálculo de total de votos\bin\Debug\net6.0\Ex3 - Cálculo de total de votos.dll
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 2\Ex3 - Cálculo de total de votos\bin\Debug\net6.0\Ex3 - Cálculo de total de votos.pdb
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 2\Ex3 - Cálculo de total de votos\obj\Debug\net6.0\Ex3 - Cálculo de total de votos.csproj.AssemblyReference.cache
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 2\Ex3 - Cálculo de total de votos\obj\Debug\net6.0\Ex3 - Cálculo de total de votos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 2\Ex3 - Cálculo de total de votos\obj\Debug\net6.0\Ex3 - Cálculo de total de votos.AssemblyInfoInputs.cache
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 2\Ex3 - Cálculo de total de votos\obj\Debug\net6.0\Ex3 - Cálculo de total de votos.AssemblyInfo.cs
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 2\Ex3 - Cálculo de total de votos\obj\Debug\net6.0\Ex3 - Cálculo de total de votos.csproj.CoreCompileInputs.cache
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 2\Ex3 - Cálculo de total de votos\obj\Debug\net6.0\Ex3 - Cálculo de total de votos.dll
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 2\Ex3 - Cálculo de total de votos\obj\Debug\net6.0\refint\Ex3 - Cálculo de total de votos.dll
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 2\Ex3 - Cálculo de total de votos\obj\Debug\net6.0\Ex3 - Cálculo de total de votos.pdb
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 2\Ex3 - Cálculo de total de votos\obj\Debug\net6.0\Ex3 - Cálculo de total de votos.genruntimeconfig.cache
+C:\Users\hddel\OneDrive\Área de Trabalho\Lista 2\Ex3 - Cálculo de total de votos\obj\Debug\net6.0\ref\Ex3 - Cálculo de total de votos.dll

@@ -1,0 +1,15 @@
+C:\Users\hddel\Desktop\Lista4\Ex5 - Entrada de 2 valores e impressão na tela\obj\Debug\net6.0\Lista4.csproj.AssemblyReference.cache
+C:\Users\hddel\Desktop\Lista4\Ex5 - Entrada de 2 valores e impressão na tela\obj\Debug\net6.0\Lista4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hddel\Desktop\Lista4\Ex5 - Entrada de 2 valores e impressão na tela\obj\Debug\net6.0\Lista4.AssemblyInfoInputs.cache
+C:\Users\hddel\Desktop\Lista4\Ex5 - Entrada de 2 valores e impressão na tela\obj\Debug\net6.0\Lista4.AssemblyInfo.cs
+C:\Users\hddel\Desktop\Lista4\Ex5 - Entrada de 2 valores e impressão na tela\obj\Debug\net6.0\Lista4.csproj.CoreCompileInputs.cache
+C:\Users\hddel\Desktop\Lista4\Ex5 - Entrada de 2 valores e impressão na tela\bin\Debug\net6.0\Lista4.exe
+C:\Users\hddel\Desktop\Lista4\Ex5 - Entrada de 2 valores e impressão na tela\bin\Debug\net6.0\Lista4.deps.json
+C:\Users\hddel\Desktop\Lista4\Ex5 - Entrada de 2 valores e impressão na tela\bin\Debug\net6.0\Lista4.runtimeconfig.json
+C:\Users\hddel\Desktop\Lista4\Ex5 - Entrada de 2 valores e impressão na tela\bin\Debug\net6.0\Lista4.dll
+C:\Users\hddel\Desktop\Lista4\Ex5 - Entrada de 2 valores e impressão na tela\bin\Debug\net6.0\Lista4.pdb
+C:\Users\hddel\Desktop\Lista4\Ex5 - Entrada de 2 valores e impressão na tela\obj\Debug\net6.0\Lista4.dll
+C:\Users\hddel\Desktop\Lista4\Ex5 - Entrada de 2 valores e impressão na tela\obj\Debug\net6.0\refint\Lista4.dll
+C:\Users\hddel\Desktop\Lista4\Ex5 - Entrada de 2 valores e impressão na tela\obj\Debug\net6.0\Lista4.pdb
+C:\Users\hddel\Desktop\Lista4\Ex5 - Entrada de 2 valores e impressão na tela\obj\Debug\net6.0\Lista4.genruntimeconfig.cache
+C:\Users\hddel\Desktop\Lista4\Ex5 - Entrada de 2 valores e impressão na tela\obj\Debug\net6.0\ref\Lista4.dll

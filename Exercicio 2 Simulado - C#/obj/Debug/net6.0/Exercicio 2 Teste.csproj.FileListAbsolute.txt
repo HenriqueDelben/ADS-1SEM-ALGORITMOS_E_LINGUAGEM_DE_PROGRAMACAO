@@ -1,0 +1,45 @@
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Teste\bin\Debug\net6.0\Exercicio 2 Teste.exe
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Teste\bin\Debug\net6.0\Exercicio 2 Teste.deps.json
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Teste\bin\Debug\net6.0\Exercicio 2 Teste.runtimeconfig.json
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Teste\bin\Debug\net6.0\Exercicio 2 Teste.dll
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Teste\bin\Debug\net6.0\Exercicio 2 Teste.pdb
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Teste\obj\Debug\net6.0\Exercicio 2 Teste.csproj.AssemblyReference.cache
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Teste\obj\Debug\net6.0\Exercicio 2 Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Teste\obj\Debug\net6.0\Exercicio 2 Teste.AssemblyInfoInputs.cache
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Teste\obj\Debug\net6.0\Exercicio 2 Teste.AssemblyInfo.cs
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Teste\obj\Debug\net6.0\Exercicio 2 Teste.csproj.CoreCompileInputs.cache
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Teste\obj\Debug\net6.0\Exercicio 2 Teste.dll
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Teste\obj\Debug\net6.0\refint\Exercicio 2 Teste.dll
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Teste\obj\Debug\net6.0\Exercicio 2 Teste.pdb
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Teste\obj\Debug\net6.0\Exercicio 2 Teste.genruntimeconfig.cache
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Teste\obj\Debug\net6.0\ref\Exercicio 2 Teste.dll
+C:\Programas\Exercicio 2 Teste\bin\Debug\net6.0\Exercicio 2 Teste.exe
+C:\Programas\Exercicio 2 Teste\bin\Debug\net6.0\Exercicio 2 Teste.deps.json
+C:\Programas\Exercicio 2 Teste\bin\Debug\net6.0\Exercicio 2 Teste.runtimeconfig.json
+C:\Programas\Exercicio 2 Teste\bin\Debug\net6.0\Exercicio 2 Teste.dll
+C:\Programas\Exercicio 2 Teste\bin\Debug\net6.0\Exercicio 2 Teste.pdb
+C:\Programas\Exercicio 2 Teste\obj\Debug\net6.0\Exercicio 2 Teste.csproj.AssemblyReference.cache
+C:\Programas\Exercicio 2 Teste\obj\Debug\net6.0\Exercicio 2 Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\Exercicio 2 Teste\obj\Debug\net6.0\Exercicio 2 Teste.AssemblyInfoInputs.cache
+C:\Programas\Exercicio 2 Teste\obj\Debug\net6.0\Exercicio 2 Teste.AssemblyInfo.cs
+C:\Programas\Exercicio 2 Teste\obj\Debug\net6.0\Exercicio 2 Teste.csproj.CoreCompileInputs.cache
+C:\Programas\Exercicio 2 Teste\obj\Debug\net6.0\Exercicio 2 Teste.dll
+C:\Programas\Exercicio 2 Teste\obj\Debug\net6.0\refint\Exercicio 2 Teste.dll
+C:\Programas\Exercicio 2 Teste\obj\Debug\net6.0\Exercicio 2 Teste.pdb
+C:\Programas\Exercicio 2 Teste\obj\Debug\net6.0\Exercicio 2 Teste.genruntimeconfig.cache
+C:\Programas\Exercicio 2 Teste\obj\Debug\net6.0\ref\Exercicio 2 Teste.dll
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Simulado - C#\bin\Debug\net6.0\Exercicio 2 Teste.exe
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Simulado - C#\bin\Debug\net6.0\Exercicio 2 Teste.deps.json
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Simulado - C#\bin\Debug\net6.0\Exercicio 2 Teste.runtimeconfig.json
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Simulado - C#\bin\Debug\net6.0\Exercicio 2 Teste.dll
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Simulado - C#\bin\Debug\net6.0\Exercicio 2 Teste.pdb
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Simulado - C#\obj\Debug\net6.0\Exercicio 2 Teste.csproj.AssemblyReference.cache
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Simulado - C#\obj\Debug\net6.0\Exercicio 2 Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Simulado - C#\obj\Debug\net6.0\Exercicio 2 Teste.AssemblyInfoInputs.cache
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Simulado - C#\obj\Debug\net6.0\Exercicio 2 Teste.AssemblyInfo.cs
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Simulado - C#\obj\Debug\net6.0\Exercicio 2 Teste.csproj.CoreCompileInputs.cache
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Simulado - C#\obj\Debug\net6.0\Exercicio 2 Teste.dll
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Simulado - C#\obj\Debug\net6.0\refint\Exercicio 2 Teste.dll
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Simulado - C#\obj\Debug\net6.0\Exercicio 2 Teste.pdb
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Simulado - C#\obj\Debug\net6.0\Exercicio 2 Teste.genruntimeconfig.cache
+C:\Users\hddel\OneDrive\Área de Trabalho\Exercicio 2 Simulado - C#\obj\Debug\net6.0\ref\Exercicio 2 Teste.dll

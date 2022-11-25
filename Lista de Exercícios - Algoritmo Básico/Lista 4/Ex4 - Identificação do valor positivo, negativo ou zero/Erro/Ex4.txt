@@ -1,0 +1,15 @@
+LISTA 4
+
+Ex4
+
+Erro: 
+- Exceção quando apertado uma tecla errada
+
+Melhoria:
+- Tentar contornar este erro usando o is, as, try catch ou typeof
+- Utilizar os comandos break e return dentro do
+
+Comando 'break' e 'return' ou 'continue', fazem respectivamente parar (utilizado para parar um loop por exemplo, retornar (termina o programa retornando um valor ou simplesmente termina) ou continua
+
+- o que é um type?
+- diferença de um type pra variavel, constante, e objeto
